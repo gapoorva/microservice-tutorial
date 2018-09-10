@@ -13,4 +13,4 @@ This repository is a reference and tutorial with code examples to understand and
 
 We will explore the above in stages. Each stage will have it's own `README.md`. Be sure to reach each to understand what covered in each stage. We will build upon previous stages to develop a full URL shortening microservice.
 
-Please let me know if you have any questions! Feel free to open github issues on this repo.
+Please let me know if you have any questions - feel free to open github issues on this repo.
